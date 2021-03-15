@@ -1,6 +1,6 @@
 import ProductAPI from './ProductAPI.js'
 
-const api_url = '/server/index.php';
+const api_url = './server/index.php';
 
 let productAPI = new ProductAPI(api_url);
 
